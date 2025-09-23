@@ -24,8 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # IntelliJ
-.idea/caches/
-.idea/libraries/
+.idea/
 *.iml
 
 # Build outputs
