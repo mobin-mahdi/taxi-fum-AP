@@ -1,0 +1,32 @@
+[
+    {
+        "carDetails": "Mercedes Benz AMG - Yellow",
+        "name": "Linus",
+        "available": true,
+        "id": "D1",
+        "currentLocation": {
+            "x": 10,
+            "y": 10
+        }
+    },
+    {
+        "carDetails": "Saipa Pride - Black",
+        "name": "Mahdi",
+        "available": true,
+        "id": "D2",
+        "currentLocation": {
+            "x": 150,
+            "y": 150
+        }
+    },
+    {
+        "carDetails": "Saipa Pride - White",
+        "name": "Mobin",
+        "available": true,
+        "id": "D3",
+        "currentLocation": {
+            "x": 0,
+            "y": 0
+        }
+    }
+]
