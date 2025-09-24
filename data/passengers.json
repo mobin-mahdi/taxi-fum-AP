@@ -1,0 +1,29 @@
+[
+    {
+        "password": "1234",
+        "name": "Mohammad",
+        "id": "P1",
+        "tripHistory": [
+            
+        ]
+    },
+    {
+        "password": "m",
+        "name": "m",
+        "id": "P2",
+        "tripHistory": [{
+            "fare": 7.121320343559643,
+            "origin": {
+                "x": 1,
+                "y": 1
+            },
+            "destination": {
+                "x": 0,
+                "y": 0
+            },
+            "tripId": "T1753213222",
+            "driverName": "Mobin",
+            "status": "COMPLETED"
+        }]
+    }
+]
