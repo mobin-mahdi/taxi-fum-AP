@@ -6,4 +6,4 @@ Online taxi CLI app made in Java, for our Advanced Programming project.
 - Assigning drivers and calculating fares
 - Saving Data of Drivers and Users and ride history
 
-by Mobin and Motamedi(me) and [Mahdi Jafari](https://github.com/fpfhodor)
+by [Mobin Motamedi](https://github.com/mobin-motamedi) and [Mahdi Jafari](https://github.com/fpfhodor)
